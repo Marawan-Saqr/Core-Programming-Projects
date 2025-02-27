@@ -1,0 +1,5 @@
+﻿  Assignment1.cpp
+D:\My Career\Tracks & Courses\Web Development\Courses\c++\Projects\(16) Calculator\Assignment1\Assignment1.cpp(55,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\My Career\Tracks & Courses\Web Development\Courses\c++\Projects\(16) Calculator\Assignment1\Assignment1.cpp(55,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\My Career\Tracks & Courses\Web Development\Courses\c++\Projects\(16) Calculator\Assignment1\Assignment1.cpp(55,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Assignment1.vcxproj -> D:\My Career\Tracks & Courses\Web Development\Courses\c++\Projects\(16) Calculator\x64\Debug\Assignment1.exe
