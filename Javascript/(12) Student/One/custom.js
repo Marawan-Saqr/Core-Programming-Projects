@@ -55,9 +55,9 @@ function updateStudent(id, newStudentData) {
 }
 
 // Example usage: updating student data
-let studentIdToUpdate = create.id;  // The id of the student to update
-let newStudentData = { name: "Updated Name", age: 21, grade: "A+" };  // New data to update
-console.log(updateStudent(studentIdToUpdate, newStudentData));  // Updating student and showing the result
+let studentIdToUpdate = create.id;
+let newStudentData = { name: "Updated Name", age: 21, grade: "A+" };
+console.log(updateStudent(studentIdToUpdate, newStudentData));
 
 // Display all students after update
 displayStudents(studentsArray);
