@@ -66,5 +66,3 @@ if (manInput) {
   alert("You Closed The Programme Thank You");
   window.close();
 }
-
-
